@@ -1,2 +1,2 @@
-# test
-a test for next
+# 本仓库用于记录对李沐动手学深度学习Pytorchv2
+大家加油
